@@ -1,11 +1,5 @@
-# My Project
+# rotateotters
 
-This is a description of my project.
+Try out adding prometheus client to a golang service.
 
-## Installation
 
-To install my project, run this command: go install myproject
-
-## Usage
-
-To use my project, run this command: myproject
